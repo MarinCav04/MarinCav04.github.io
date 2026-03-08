@@ -5,8 +5,8 @@ title: Home
 
 # Wer bin ich ?
 
-Hallo, ich bin Marin und baue meine erste Jekyll seite !
+Hallo, ich bin Marin, bin im 2. Semester und baue meine erste Jekyll-Seite !
 
-*Bild platzhalter*
+![Bild](/images/Greenwood.png)
 
 [Zurück zur Startseite](index.html)
