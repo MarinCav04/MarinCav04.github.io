@@ -8,9 +8,10 @@ title: AboutME
 Hallo, ich bin Marin, bin im 2. Semester und baue meine erste Jekyll-Seite !
 
 <Hier ist ein Bild von meinem Lieblingsspieler>
+
 ![Bild](/images/Greenwood.png)
 
-# Als Fußball-Liebhaber musst ich natürlich etwas dazu einfügen ;-)
+> **Als Fußball-Liebhaber musste ich natürlich etwas dazu einfügen ;-)**
 
 # Über mich:
 ***Alter:*** 21
