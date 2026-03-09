@@ -7,6 +7,8 @@ title: Home
 
 Das ist die Startseite für mein Jekyll-Projekt
 
-### Meine Seiten:
-* [Meine Projekte ansehen](projects.html)
-* [Mehr über mich erfahren](about.html)
+Hier unten findest du weiter Infos über mich:
+
+### 🚀 Navigation
+* [👤 Über mich](about.html)
+* [💻 Meine Projekte](projects.html)
