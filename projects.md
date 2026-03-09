@@ -10,10 +10,10 @@ Aktuell lerne ich, wie man Webseiten mit GitHub Pages und Jekyll baut.
 Hier ist ein kleines Code-Beispiel in Python, um zu zeigen, dass mein Syntax-Highlighting funktioniert:
 
 ```python
-def sag_hallo(name):
+def say_hello(name):
     print(f"Hallo {name}, willkommen auf meinem Portfolio!")
 
-sag_hallo("Besucher")
+say_hello("Besucher")
 ```
 
 [Zurück zur Startseite](index.html)
