@@ -16,7 +16,7 @@ Hallo, ich bin Marin, bin im 2. Semester und baue meine erste Jekyll-Seite!
 * **Geschlecht:** Männlich
 * **Hobbies:** Fußball, Sport
 
-### Kontakt
+**Kontakt:**
 **Name:** Marin Cavarusic
 **E-Mail:** mardreck7@gmail.com  
 **Land:** Österreich
