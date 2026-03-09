@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: MarinCav04s page
-description: Mein kleines Portfolio
+description: >
+  Mein kleiner Portfolio! <br><br>
+  [Home](index.html) | [Über mich](about.html) | [Projekte](projects.html)
