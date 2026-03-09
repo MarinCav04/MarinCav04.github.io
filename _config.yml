@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: MarinCav04s page
-description: Whatch out, this is my page!
+description: >
+  Willkommen auf meiner Seite! 
+  [Home](index.html) | [Über mich](about.html) | [Projekte](projects.html)
